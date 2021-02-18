@@ -1,0 +1,66 @@
+Genesis,6
+Exodus,4777
+Leviticus,8832
+Numbers,11714
+Deuteronomy,15686
+Joshua,18877
+Judges,21038
+Ruth,23308
+1 Samuel,23612
+2 Samuel,26602
+1 Kings,29055
+2 Kings,31951
+1 Chronicles,34671
+2 Chronicles,37343
+Ezra,40467
+Nehemiah,41383
+Esther,42675
+Job,43317
+Psalms,45902
+Proverbs,53502
+Ecclesiastes,55976
+Song of Solomon,56675
+Isaiah,57041
+Jeremiah,61515
+Lamentations,66445
+Ezekiel,66926
+Daniel,71513
+Hosea,72898
+Joel,73585
+Amos,73839
+Obadiah,74324
+Jonah,74406
+Micah,74569
+Nahum,74950
+Habakkuk,75125
+Zephaniah,75313
+Haggai,75515
+Zechariah,75641
+Malachi,76393
+Matthew,76611
+Mark,79673
+Luke,81645
+John,84971
+Acts,87508
+Romans,90619
+1 Corinthians,91816
+1 Corinthians,93030
+Galatians,93795
+Ephesians,94222
+Philippians,94577
+Colossians,94861
+1 Thessalonians,95110
+2 Thessalonians,95355
+1 Timothy,95480
+2 Timothy,95798
+Titus,96028
+Philemon,96148
+Hebrews,96208
+James,97078
+1 Peter,97395
+2 Peter,97684
+1 John,97871
+2 John,98214
+3 John,98260
+Jude,98305
+Revelation,98392
